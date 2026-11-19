@@ -1,71 +1,72 @@
 <!--
-  Org profile for https://github.com/Qvanta-BigDx-Group
-  Brand voice aligned with https://qvanta.io
+  Org profile → https://github.com/Qvanta-BigDx-Group
+  Brand aligned with https://qvanta.io
 -->
 
 <div align="center">
 
-<img src="og-image.png" alt="Qvanta BigΔx — Security for the quantum era" width="920" />
-
-<br /><br />
-
-<img src="logo-q-256.png" alt="Qvanta" width="72" />
-
-### BigΔx™ by Qvanta®
-
-# Security for the quantum era.
-
-Encryption, malware protection, and secure messaging that stay secure as quantum computers mature.  
-Built for businesses, government agencies, and research teams.
+<img src="banner.svg" alt="Qvanta BigΔx — Security for the quantum era" width="960" />
 
 <br />
 
-[Website](https://qvanta.io) · [Products](https://qvanta.io/Products.dc.html) · [Government](https://qvanta.io/Government.dc.html) · [Research](https://qvanta.io/Research.dc.html) · [Contact](https://qvanta.io/Contact.dc.html)
+<img src="logo-q-256.png" alt="Qvanta" width="56" />
+
+### Qvanta®
+
+**Private engineering home for BigΔx™** — quantum-safe security software for businesses, government, and research.
+
+<br />
+
+<a href="https://qvanta.io"><img src="https://img.shields.io/badge/Website-qvanta.io-0A1424?style=for-the-badge&labelColor=2F5BEA&color=0A1424" alt="qvanta.io" /></a>
+&nbsp;
+<a href="https://qvanta.io/Contact.dc.html?type=demo"><img src="https://img.shields.io/badge/Request%20a%20demo-2F5BEA?style=for-the-badge&color=2F5BEA" alt="Request a demo" /></a>
+&nbsp;
+<a href="https://qvanta.io/Products.dc.html"><img src="https://img.shields.io/badge/Products-9DB5FF?style=for-the-badge&labelColor=101C33&color=9DB5FF" alt="Products" /></a>
 
 </div>
 
 ---
 
-## Six products. One quantum-safe stack.
+<div align="center">
 
-Endpoint, AI, data center, storage, secrets, and messaging — built for the day today's encryption stops being enough.
+## Six products. One stack.
 
-| Mark | Product | Protects |
-| --- | --- | --- |
-| **QAV™** | [Quantum Antivirus](https://qvanta.io/Product.dc.html?p=QAV) | Polymorphic and AI-generated malware |
-| **QAIFW™** | [Quantum AI Firewall](https://qvanta.io/Product.dc.html?p=QAIFW) | What AI models and agents can see, say, and do |
-| **QDC™** | [Quantum Data Center](https://qvanta.io/Product.dc.html?p=QDC) | Post-quantum security for existing data centers |
-| **QSV™** | [Quantum Secure Vault](https://qvanta.io/Product.dc.html?p=QSV) | Data at rest and in transit |
-| **QPS™** | [Quantum PulseShare](https://qvanta.io/Product.dc.html?p=QPS) | Secrets and files that burn after reading |
-| **QWM™** | [Quantum Whisper](https://qvanta.io/Product.dc.html?p=QWM) | Sensitive team messaging |
+Endpoint, AI, data center, storage, secrets, and messaging — built for the day today’s encryption stops being enough.
 
-No rip-and-replace. BigΔx goes in next to what you already run.
+</div>
+
+| | | |
+|:--|:--|:--|
+| **[QAV™](https://qvanta.io/Product.dc.html?p=QAV)** Quantum Antivirus | **[QAIFW™](https://qvanta.io/Product.dc.html?p=QAIFW)** Quantum AI Firewall | **[QDC™](https://qvanta.io/Product.dc.html?p=QDC)** Quantum Data Center |
+| Polymorphic & AI-written malware | What models and agents can see & do | Post-quantum for existing DCs |
+| **[QSV™](https://qvanta.io/Product.dc.html?p=QSV)** Quantum Secure Vault | **[QPS™](https://qvanta.io/Product.dc.html?p=QPS)** Quantum PulseShare | **[QWM™](https://qvanta.io/Product.dc.html?p=QWM)** Quantum Whisper |
+| Data at rest and in transit | Secrets that burn after reading | Sensitive team messaging |
+
+<p align="center"><sub>No rip-and-replace. BigΔx runs next to what you already ship.</sub></p>
+
+---
+
+<div align="center">
+
+## Start here
+
+</div>
+
+```text
+  01  Businesses     →  https://qvanta.io/Products.dc.html
+  02  Government     →  https://qvanta.io/Government.dc.html
+  03  Research       →  https://qvanta.io/Research.dc.html
+  04  Talk to us     →  https://qvanta.io/Contact.dc.html
+```
 
 ---
 
-## Where do you want to start?
-
-| | Path | |
-| :---: | --- | --- |
-| **01** | **[Businesses](https://qvanta.io/Products.dc.html)** — see the six BigΔx products, what each protects, and where it runs | |
-| **02** | **[Government & defense](https://qvanta.io/Government.dc.html)** — public-sector programs and cyber investigations | |
-| **03** | **[Researchers](https://qvanta.io/Research.dc.html)** — formal math, crypto research, QVNT on Solana | |
-| **04** | **[Talk to a person](https://qvanta.io/Contact.dc.html)** — demo, briefing, partnership, press, or investors | |
-
----
+<div align="center">
 
 ## This organization
 
-Private engineering home for Qvanta® and BigΔx™ — websites, product platforms, mobile clients, research harnesses, and internal tooling.
-
-Repos here are **private by default**. Public face of the company: **[qvanta.io](https://qvanta.io)**.
-
-<p align="center">
-  <a href="https://qvanta.io"><img src="https://img.shields.io/badge/qvanta.io-0A1424?style=for-the-badge&labelColor=2F5BEA&logoColor=white" alt="qvanta.io" /></a>
-  <a href="https://qvanta.io/Contact.dc.html?type=demo"><img src="https://img.shields.io/badge/Request%20a%20demo-2F5BEA?style=for-the-badge" alt="Request a demo" /></a>
-</p>
-
-<div align="center">
+Product source, platforms, and research harnesses live in **private** repositories.  
+The public face of the company is **[qvanta.io](https://qvanta.io)** — this page is only the GitHub door.
 
 <sub>Qvanta® software and services are intended for lawful and authorized use only.</sub>
 
