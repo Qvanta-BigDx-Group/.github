@@ -1,5 +1,5 @@
 # Qvanta-BigDx-Group `.github`
 
-Organization profile (`profile/README.md`) and shared community health files for [Qvanta® BigΔx](https://github.com/Qvanta-BigDx-Group).
+Public org profile (`profile/README.md`) for [Qvanta® BigΔx](https://github.com/Qvanta-BigDx-Group).
 
-Product source stays in private repositories. This repo is public so the org landing page is visible.
+**Why public?** GitHub only renders an organization profile README from a public `.github` repository. All product and engineering repos stay private; the company website is [qvanta.io](https://qvanta.io).
