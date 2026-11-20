@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="420" viewBox="0 0 1120 420" role="img" aria-label="BigΔx product stack">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121C30"/>
+      <stop offset="100%" stop-color="#0C1526"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2F5BEA"/>
+      <stop offset="100%" stop-color="#9DB5FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1120" height="420" fill="#070D18" rx="0"/>
+  <!-- title -->
+  <text x="560" y="42" text-anchor="middle" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="15" font-weight="600" letter-spacing="3" fill="#9DB5FF">SIX PRODUCTS · ONE QUANTUM-SAFE STACK</text>
+
+  <!-- helper to draw cards: positions -->
+  <!-- row1 -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="70" width="330" height="140" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="40" y="70" width="330" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="112" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9DB5FF">QAV™</text>
+    <text x="64" y="142" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="20" font-weight="600" fill="#F2F4F8">Quantum Antivirus</text>
+    <text x="64" y="172" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" fill="#97A3B6">Polymorphic &amp; AI-written malware</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="395" y="70" width="330" height="140" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="395" y="70" width="330" height="4" rx="2" fill="url(#accent)"/>
+    <text x="419" y="112" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9DB5FF">QAIFW™</text>
+    <text x="419" y="142" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="20" font-weight="600" fill="#F2F4F8">Quantum AI Firewall</text>
+    <text x="419" y="172" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" fill="#97A3B6">What models &amp; agents can see &amp; do</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="750" y="70" width="330" height="140" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="750" y="70" width="330" height="4" rx="2" fill="url(#accent)"/>
+    <text x="774" y="112" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9DB5FF">QDC™</text>
+    <text x="774" y="142" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="20" font-weight="600" fill="#F2F4F8">Quantum Data Center</text>
+    <text x="774" y="172" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" fill="#97A3B6">Post-quantum for existing DCs</text>
+  </g>
+  <!-- row2 -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="240" width="330" height="140" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="40" y="240" width="330" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="282" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9DB5FF">QSV™</text>
+    <text x="64" y="312" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="20" font-weight="600" fill="#F2F4F8">Quantum Secure Vault</text>
+    <text x="64" y="342" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" fill="#97A3B6">Data at rest and in transit</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="395" y="240" width="330" height="140" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="395" y="240" width="330" height="4" rx="2" fill="url(#accent)"/>
+    <text x="419" y="282" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9DB5FF">QPS™</text>
+    <text x="419" y="312" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="20" font-weight="600" fill="#F2F4F8">Quantum PulseShare</text>
+    <text x="419" y="342" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" fill="#97A3B6">Secrets that burn after reading</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="750" y="240" width="330" height="140" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="750" y="240" width="330" height="4" rx="2" fill="url(#accent)"/>
+    <text x="774" y="282" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9DB5FF">QWM™</text>
+    <text x="774" y="312" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="20" font-weight="600" fill="#F2F4F8">Quantum Whisper</text>
+    <text x="774" y="342" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="13" fill="#97A3B6">Sensitive team messaging</text>
+  </g>
+</svg>

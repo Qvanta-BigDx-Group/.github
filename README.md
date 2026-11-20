@@ -1,5 +1,5 @@
 # Qvanta-BigDx-Group `.github`
 
-Public org profile (`profile/README.md`) for [Qvanta® BigΔx](https://github.com/Qvanta-BigDx-Group).
+Public organization profile for [Qvanta® BigΔx](https://github.com/Qvanta-BigDx-Group).
 
-**Why public?** GitHub only renders an organization profile README from a public `.github` repository. All product and engineering repos stay private; the company website is [qvanta.io](https://qvanta.io).
+This repository **must stay public** so GitHub can render `profile/README.md` on the org overview. All product and engineering repositories remain private. Company site: [qvanta.io](https://qvanta.io).
